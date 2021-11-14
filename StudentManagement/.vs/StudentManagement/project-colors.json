@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "27017064-336d-4af8-9e8c-ae178ecaf373": {
+      "ProjectGuid": "27017064-336d-4af8-9e8c-ae178ecaf373",
+      "DisplayName": "StudentManagement",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
